@@ -11,6 +11,12 @@ const MiningPools = ({ intl }) => (
       />
       <div className='MiningPools-list'>
         <a
+          href='https://clo.ethash.farm/'
+          className='btn btn-transparent-green'
+          target='_blank'
+        >
+          clo.ethash.farm
+        </a>        <a
           href='https://clopool.pro/'
           className='btn btn-transparent-green'
           target='_blank'
