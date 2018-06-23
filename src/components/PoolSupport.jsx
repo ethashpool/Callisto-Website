@@ -17,6 +17,14 @@ const PoolSupport = () => (
           />
         </div>
         <div className="PoolSupport-list-element">
+          <span>clo.ethash.farm</span>
+          <a
+            className="PoolSupport-list-element-anchor"
+            target="_blank"
+            href="https://clo.ethash.farm/"
+          />
+        </div>
+        <div className="PoolSupport-list-element">
           <span>epool.io</span>
           <a
             className="PoolSupport-list-element-anchor"
